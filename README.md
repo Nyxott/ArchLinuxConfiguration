@@ -1,4 +1,4 @@
-## Arch linux configuration files
+## Arch Linux configuration files
 
 This repository gathers several configuration files to facilitate the installation of an Arch Linux.
 
