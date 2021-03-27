@@ -2,5 +2,4 @@
 
 killall -q polybar
 
-polybar top
-polybar bottom
+polybar top & polybar bottom
